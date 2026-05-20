@@ -1,0 +1,17 @@
+User-agent: *
+Disallow: /api/
+Disallow: /db/
+Disallow: /img/uploads/
+Disallow: /img/system/
+Disallow: /logout.php
+
+Allow: /
+Allow: /index.php
+Allow: /explore.php
+Allow: /login.php
+Allow: /signup.php
+Allow: /ask.php
+Allow: /terms.php
+Allow: /privacy.php
+
+Sitemap: https://smfe.app/sitemap.xml
