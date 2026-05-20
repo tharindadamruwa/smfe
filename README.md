@@ -38,8 +38,7 @@ smfe/
    mkdir -p smfe/img/uploads
    chmod 775 smfe/img/uploads
    ```
-3. Visit `http://localhost/smfe/` in your browser
-4. Demo login: `demo@smfe.app` / `demo123`
+3. Visit `smfe.rf.gd` in your browser
 
 ### Next Steps (Backend Integration)
 - Connect a MySQL database for users, posts, comments, likes
